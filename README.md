@@ -2,7 +2,7 @@
 
 Go on https://apps.twitter.com/
 
-Create Your APII
+Create Your API
 
 Allow All like DMs access or Tweet
 
